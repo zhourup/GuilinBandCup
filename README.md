@@ -17,5 +17,5 @@
 
 **4、流程**
 
-![img](D:\myPython\GuilinBankCup\img.png)
+![img](https://github.com/zhourup/GuilinBankCup/blob/main/img.png)
 
